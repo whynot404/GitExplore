@@ -4,3 +4,6 @@ def say():
     print('Hello Again editing from komodo edit')
 
 say()
+
+def sayanotherone():
+    print('What? Again!')
